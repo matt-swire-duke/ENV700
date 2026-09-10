@@ -1,0 +1,1 @@
+# A personal folder where I'll be creating my own exercises with AI to further bolster my skills. 
